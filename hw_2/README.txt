@@ -1,0 +1,1 @@
+В папке с этими же файлами должна располагаться папка "friends_data". Файл "hw_2_get_corpus.py" получает файлы "corpus_df.csv", "tfidf.pickle" и "files_list.txt". Для поиска необходимо запустить только файл "hw_2_search".
