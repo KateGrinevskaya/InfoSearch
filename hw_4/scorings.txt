@@ -1,0 +1,5 @@
+count 0.0128
+tf-idf 0.0355
+bm25 0.0318
+fasttext 0.0031
+bert 0.0004
